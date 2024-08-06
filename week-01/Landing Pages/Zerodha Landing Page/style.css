@@ -62,7 +62,7 @@ a {
   height: 45vh;
   max-width: 100%;
   min-width: 350px;
-  padding-top: 80px;
+  padding-top: 85px;
   margin-bottom: 75px;
 }
 
@@ -151,6 +151,10 @@ a {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   color: #424242;
+}
+
+.arrow {
+  width: 20px;
 }
 
 .left-text p {
